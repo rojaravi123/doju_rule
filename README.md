@@ -1,0 +1,1 @@
+# doju_rule
